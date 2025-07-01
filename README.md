@@ -28,7 +28,7 @@ Before running the application locally, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student_admission_prediction.git
+git clone https://github.com/94etienne/student_admission_prediction.git
 cd student_admission_prediction
 ```
 
@@ -192,7 +192,7 @@ scikit-learn>=1.3.0
 
 ```bash
 # How to contribute:
-git clone https://github.com/your-username/student_admission_prediction.git
+git clone https://github.com/94etienne/student_admission_prediction.git
 cd student_admission_prediction
 
 # Create a feature branch
@@ -243,7 +243,7 @@ model/
 # For technical support or questions:
 
 # GitHub Issues
-# Create an issue at: https://github.com/your-username/student_admission_prediction/issues
+# Create an issue at: https://github.com/94etienne/student_admission_prediction/issues
 
 # Quick troubleshooting commands:
 python --version          # Check Python version (should be 3.8+)
