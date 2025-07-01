@@ -518,7 +518,7 @@ elif page in ["REB Prediction", "RTB Prediction"]:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 20px;">
-    <p>Student Admission Prediction System - Powered by Machine Learning</p>
-    <p>For support and inquiries, please contact the admissions office.</p>
+    <p>Student Admission Prediction System - Powered by Etienne NTAMBARA</p>
+    <p>For support and inquiries, please contact: +250 783 716 761.</p>
 </div>
 """, unsafe_allow_html=True)
