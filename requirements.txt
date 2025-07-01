@@ -1,6 +1,7 @@
-streamlit 
-pandas 
-numpy 
-joblib 
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
 plotly 
 reportlab
